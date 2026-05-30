@@ -18,3 +18,6 @@ Ce projet est un simulateur de trajectoire orbitale en 2D développé en C#. Il 
 - **Programmation Orientée Objet (POO) :** Modélisation rigoureuse via des classes (`Position`, `Objet`, `Planete`, `Simulation`), utilisation des principes d'héritage, d'encapsulation et de constructeurs.
 - **Mathématiques appliquées :** Trigonométrie (conversion degrés/radians, calcul de sinus et cosinus pour les vecteurs de vitesse) et calcul vectoriel de repère normé.
 - **Physique Newtonienne :** Implémentation de la Loi Universelle de la Gravitation.
+
+## 👤 Auteur
+- **Clément Faure** - Mon LinkedIn : (https://www.linkedin.com/in/cl%C3%A9ment-faure-218713393/)
